@@ -1,0 +1,9 @@
+{
+  "name": "CustomBiomeMessages",
+  "version_number": "1.0.0",
+  "website_url": "https://discord.gg/pdHgy6Bsng",
+  "description": "Change the biome messages to whatever you want. They show when a new biome is found. If you have a mod that triggers the message, it will show the new message instead. Otherwise, it's message will show only on new biome found.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2105"
+  ]
+}
